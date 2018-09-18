@@ -1,7 +1,7 @@
 # TBrain: Insurance Premium Prediction
 
 ## Competition Description
-[Competiton Page](https://tbrain.trendmicro.com.tw/Competitions/Details/3)
+[Competition Page](https://tbrain.trendmicro.com.tw/Competitions/Details/3)
 
 ## Result
 1. Ranking: 45/496 (Top 10%)
